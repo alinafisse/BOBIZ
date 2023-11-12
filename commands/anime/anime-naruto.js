@@ -16,7 +16,7 @@ export let on = {
 			image: {
 				url: naruto
 			},
-			caption: `🎗 *Naruto*\ninstagram.com/noureddine_ouafy `
+			caption: `🎗 *Naruto*\ninstagram.com/alinafisse `
 		}, {
 			quoted: m
 		})
