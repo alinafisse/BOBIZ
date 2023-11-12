@@ -1,21 +1,21 @@
-# BOBIZ
-BOBIZ IS BACK WITH NEW LOOK AND NEW FEATURES 
+# linda
+لقد عادت ليندا بمظهر جديد وميزات جديدة 
 menu 
 
 
 
 
 Instagram: http://instagram.com/noureddine_ouafy
-Facebook: https://www.facebook.com/profile.php?id=100063533185520
+Facebook: https://www.facebook.com
 
  ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ 
 
-┌───⭓ Anime Menu
+┌───⭓ *اوامر الانيم*
 │⭔.naruto
 │⭔.yuki
 └───────────⭓
 
-┌───⭓ Downloader
+┌───⭓ *تحميل من السوشل ميديا*
 │⭔.apk
 │⭔.apkdl
 │⭔.facebook
@@ -28,12 +28,12 @@ Facebook: https://www.facebook.com/profile.php?id=100063533185520
 │⭔.ytmp4
 └───────────⭓
 
-┌───⭓ Main Menu
+┌───⭓ *القائمة الرئيسية*
 │⭔.menu
 │⭔.owner
 └───────────⭓
 
-┌───⭓ Maker
+┌───⭓ *صانع*
 │⭔.remini
 │⭔.hd
 │⭔.attp
@@ -41,14 +41,14 @@ Facebook: https://www.facebook.com/profile.php?id=100063533185520
 │⭔.sticker
 └───────────⭓
 
-┌───⭓ Owner
+┌───⭓ *مطور*
 │⭔.off welcome
 │⭔.on welcome
 │⭔.autodownload
 │⭔.setppbot
 └───────────⭓
 
-┌───⭓ Tools
+┌───⭓ *ادوات*
 │⭔.image
 │⭔.chatgpt
 │⭔.translate
